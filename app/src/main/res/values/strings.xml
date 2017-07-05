@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Suburi</string>
+
+    <string name="title_activity_master_data_update">MasterDataUpdateActivity</string>
+
+    <string-array name="list">
+        <item>高坂　穂乃果</item>
+        <item>南　ことり</item>
+        <item>園田　海未</item>
+        <item>小泉　花陽</item>
+        <item>星空　凛</item>
+        <item>西木野　真姫</item>
+        <item>矢澤　にこ</item>
+        <item>絢瀬　絵里</item>
+        <item>東條　希</item>
+    </string-array>
+
+    <string name="title_update_name">マスターデータ更新</string>
+    <string name="title_HRAlbum_name">HRアルバム</string>
+    <string name="title_introduce">キャラ紹介</string>
+
 </resources>
